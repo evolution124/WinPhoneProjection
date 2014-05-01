@@ -4,4 +4,4 @@
  - Target Platform:Windows 7 or latter and WinUsb.sys
  - Develop Environment:Visual Studio 2013 with Visual C++
  
- This Project Implement by Reverse Engineering. (Project My Screen App - 8.10.12349)
+ * This Project Implement by Reverse Engineering. (Project My Screen App - 8.10.12349)
